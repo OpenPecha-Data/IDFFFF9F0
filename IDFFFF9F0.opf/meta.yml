@@ -1,0 +1,214 @@
+id: IDFFFF9F0
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:27:50.368461'
+last_modified: '2022-06-19T17:27:50.368467'
+parser: null
+source_metadata:
+  title: Tārā Series
+  language: bo
+  description: 'A series of texts related to the noble saviouress Tārā (sgrol ma):'
+  volume:
+    f24D2:
+      title: Introduction to Tārā
+      base_file: f24D2.txt
+      order: 1
+      parent: Introduction
+    f048B:
+      title: A Brief History of the Sacred Image of White Tārā
+      base_file: f048B.txt
+      order: 2
+      parent: History
+    fFDE8:
+      title: 'The Fount of Longevity: The Chimé Pakmé Nyingtik Lineage Prayer'
+      base_file: fFDE8.txt
+      order: 3
+      parent: Lineage Prayers
+    f4FCE:
+      title: 'The Concentration of Blessings: Red Tārā Lineage Prayer'
+      base_file: f4FCE.txt
+      order: 4
+      parent: Lineage Prayers
+    f8AB6:
+      title: 'The Garland of Utpala Flowers: A Prayer to the Masters of the Lineage
+        of Zabtik Drolchok'
+      base_file: f8AB6.txt
+      order: 5
+      parent: Lineage Prayers
+    f4245:
+      title: An Extremely Concise Praise of the Twenty-One Tārās
+      base_file: f4245.txt
+      order: 6
+      parent: Praise
+    fA46A:
+      title: The Praise to Tārā with Twenty-One Verses of Homage and The Excellent
+        Benefits of Reciting the Praise
+      base_file: fA46A.txt
+      order: 7
+      parent: Praise
+    f2039:
+      title: 'The Fulfilment of All Aspirations: In Praise of Noble Tārā'
+      base_file: f2039.txt
+      order: 8
+      parent: Praise
+    f3544:
+      title: 'A Surge of Faith: Verses In Praise of Tārā'
+      base_file: f3544.txt
+      order: 9
+      parent: Praise
+    f88FF:
+      title: An Outline of The Praise to Tārā with Twenty-One Verses of Homage
+      base_file: f88FF.txt
+      order: 10
+      parent: Praise
+    fD72D:
+      title: 'Brilliant Rays of Light: A Commentary on the Praise to Tārā'
+      base_file: fD72D.txt
+      order: 11
+      parent: Praise
+    f7404:
+      title: A Prayer to Tārā
+      base_file: f7404.txt
+      order: 12
+      parent: Prayers
+    f286C:
+      title: Prayer to Ārya Tārā
+      base_file: f286C.txt
+      order: 13
+      parent: Prayers
+    f813C:
+      title: A Concise Supplication to the Most Noble Tārā
+      base_file: f813C.txt
+      order: 14
+      parent: Prayers
+    f4F61:
+      title: Prayer to Ārya Tārā
+      base_file: f4F61.txt
+      order: 15
+      parent: Prayers
+    f1928:
+      title: 'Prayer to Tārā: A Sevenfold Supplication for Protection'
+      base_file: f1928.txt
+      order: 16
+      parent: Prayers
+    f44C7:
+      title: A Short Supplication to Tārā
+      base_file: f44C7.txt
+      order: 17
+      parent: Prayers
+    f7A2C:
+      title: 'Averting Obstructive Circumstances: A Prayer to Tārā'
+      base_file: f7A2C.txt
+      order: 18
+      parent: Prayers
+    f7284:
+      title: 'Eliminator of Suffering: A Prayer to the Venerable and Exalted Tārā'
+      base_file: f7284.txt
+      order: 19
+      parent: Prayers
+    fA429:
+      title: Prayer to Noble White Tārā
+      base_file: fA429.txt
+      order: 20
+      parent: Prayers
+    fB433:
+      title: Prayer to Reverend and Noble Tārā
+      base_file: fB433.txt
+      order: 21
+      parent: Prayers
+    f6B11:
+      title: 'The Sweet-Sounding Song that Fulfils All Aims: A Prayer to Noble Tārā
+        Combined with Her Root Mantra'
+      base_file: f6B11.txt
+      order: 22
+      parent: Prayers
+    fC0CB:
+      title: Prayer to Jetsün Tārā
+      base_file: fC0CB.txt
+      order: 23
+      parent: Prayers
+    fAED4:
+      title: Brief Homage to the Twenty-One Tārās
+      base_file: fAED4.txt
+      order: 24
+      parent: Prayers
+    f70E5:
+      title: Prayer to Tārā, Combined with Her Mantra
+      base_file: f70E5.txt
+      order: 25
+      parent: Prayers
+    fC0C4:
+      title: Aspiration Prayer from Tārā Sādhana
+      base_file: fC0C4.txt
+      order: 26
+      parent: Prayers
+    f8144:
+      title: A Supplication to Noble Tārā, The Wish-Fulfilling Cornucopia
+      base_file: f8144.txt
+      order: 27
+      parent: Prayers
+    fBA3C:
+      title: 'Burgeoning Benefit and Happiness: An Aspiration to be Reborn in the
+        Land of Turquoise Leaves'
+      base_file: fBA3C.txt
+      order: 28
+      parent: Prayers
+    f8DE4:
+      title: A Means to Pacify the Fear of Natural Disasters
+      base_file: f8DE4.txt
+      order: 29
+      parent: Sādhanas
+    f6FCA:
+      title: Concise White Tārā Sādhana
+      base_file: f6FCA.txt
+      order: 30
+      parent: Sādhanas
+    f0D02:
+      title: 'Swift Enchantment of the Three Realms: A Sādhana of Red Tārā'
+      base_file: f0D02.txt
+      order: 31
+      parent: Sādhanas
+    fF335:
+      title: 'Adornment of Lord Nāgārjuna’s Wisdom Mind: The Fourfold Maṇḍala Offering
+        to Tārā'
+      base_file: fF335.txt
+      order: 32
+      parent: Sādhanas
+    f4139:
+      title: 'A Shower of Blessings: A Sādhana of Blue-Green Tārā'
+      base_file: f4139.txt
+      order: 33
+      parent: Sādhanas
+    f6040:
+      title: A Concise Sang Offering to Tārā
+      base_file: f6040.txt
+      order: 34
+      parent: Sang Offering
+    fF1CE:
+      title: Seven-Branch Offering to Tārā
+      base_file: fF1CE.txt
+      order: 35
+      parent: Seven-Branch
+    f04A4:
+      title: 'Essence of Accomplishment: A Concise Feast-Offering to Noble Tārā'
+      base_file: f04A4.txt
+      order: 36
+      parent: Tsok
+    fD500:
+      title: Windhorse Practice of Tārā
+      base_file: fD500.txt
+      order: 37
+      parent: Windhorse
+    f50F7:
+      title: Brief Windhorse Practice of Tārā
+      base_file: f50F7.txt
+      order: 38
+      parent: Windhorse
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
